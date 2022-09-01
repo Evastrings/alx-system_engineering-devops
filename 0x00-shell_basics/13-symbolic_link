@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /bin/Is ls
+ln -s /bin/ls ls
