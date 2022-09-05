@@ -1,2 +1,6 @@
 #!/bin/bash
 ls -map | sort -d
+<<<<<<< HEAD
+=======
+
+>>>>>>> 222eaa53c005da6e6a899c4e8ba2d166fccea050
